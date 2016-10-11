@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">TwoPane</string>
+    <string name="fragment_1">Fragment 1</string>
+    <string name="fragment_2">Fragment 2</string>
+    <string name="fragment_main">Fragment Main</string>
 </resources>
